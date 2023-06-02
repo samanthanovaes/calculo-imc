@@ -1,0 +1,11 @@
+C:\Users\2022102020008\source\repos\calculo imc\calculo imc\bin\Debug\calculo imc.exe.config
+C:\Users\2022102020008\source\repos\calculo imc\calculo imc\bin\Debug\calculo imc.exe
+C:\Users\2022102020008\source\repos\calculo imc\calculo imc\bin\Debug\calculo imc.pdb
+C:\Users\2022102020008\source\repos\calculo imc\calculo imc\obj\Debug\calculo imc.csproj.AssemblyReference.cache
+C:\Users\2022102020008\source\repos\calculo imc\calculo imc\obj\Debug\calculo imc.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020008\source\repos\calculo imc\calculo imc\obj\Debug\calculo_imc.Form1.resources
+C:\Users\2022102020008\source\repos\calculo imc\calculo imc\obj\Debug\calculo_imc.Properties.Resources.resources
+C:\Users\2022102020008\source\repos\calculo imc\calculo imc\obj\Debug\calculo imc.csproj.GenerateResource.cache
+C:\Users\2022102020008\source\repos\calculo imc\calculo imc\obj\Debug\calculo imc.csproj.CoreCompileInputs.cache
+C:\Users\2022102020008\source\repos\calculo imc\calculo imc\obj\Debug\calculo imc.exe
+C:\Users\2022102020008\source\repos\calculo imc\calculo imc\obj\Debug\calculo imc.pdb
