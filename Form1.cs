@@ -61,6 +61,8 @@ namespace calculo_imc
             Pessoa p = new Pessoa(text_nome.Text, text_cpf.Text, cb_sexo.Text, peso, idade, altura);
             (double resultado, string categoria, string grau) = p.CalcularIMC();
             lb_resul.Text = ($"O IMC é {resultado.ToString("0.00")}\nA categoria é {categoria}\nO grau é {grau}");
+            // sla isos aq é uma alteração pra tesfae ogit aaaaaaaaaaaaa pdf
+
             MessageBox.Show(Validacoes.CalculoCpf(text_cpf.Text).ToString());
             
             
